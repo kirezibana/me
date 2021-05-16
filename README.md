@@ -1,15 +1,36 @@
-My-portfolio
-This is a portfolio, 28/2/2021
-Author: Bonte Emma BANA
-Description
-This project is my portfolio. If you want to know more about me and  my proffession, you can navigate through it.
+# portfolio-hortense
+
+Author:Kirezi Bana Hortense
+
+what is e-portfolio ?
+
+this is a document that are more in-depth than a resume, which is used to summarize information about who I are and examples of your work and achievements.
+
+ 
+ ## Link to live site on GitHub Pages
+
+ 
+ ## Licence
+ MIT License
+
+Copyright (c) 2021 Kirezi Bana Hortense
 
 
-Technologies Used
-HTML and CSS.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-Support and contact details
-For more information, contact me on:bbonteemma@gmail.com or +25078688641
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-License
-Copyright (c)2021 Bonte Emma BANA
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+ 
